@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>PixelWave Agency — Contact</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand"><a href="index.html">PixelWave</a></div>
+      <button id="navToggleContact" class="nav-toggle" aria-expanded="false" aria-controls="primaryNav" aria-label="Toggle navigation">☰</button>
+      <nav id="primaryNav" class="primary-nav">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="contact.html" class="active">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container contact-page">
+    <section class="contact fade-up">
+      <h1>Contact us</h1>
+      <p>Send a short message and we'll get back to you within 1–2 business days.</p>
+
+      <form id="contactForm" novalidate>
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text" placeholder="Your full name" required>
+
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" placeholder="you@example.com" required>
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="6" placeholder="Tell us about your project" required></textarea>
+
+        <div class="form-actions">
+          <button type="submit" class="btn">Send message</button>
+        </div>
+
+        <p id="formStatus" role="status" aria-live="polite"></p>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>© 2025 PixelWave — Crafted with care</p>
+      <nav class="footer-nav">
+        <a href="index.html">Home</a> ·
+        <a href="about.html">About</a> ·
+        <a href="services.html">Services</a> ·
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </footer>
+
+  <button id="backToTop" aria-label="Back to top">↑</button>
+
+  <script src="js/main.js" defer></script>
+</body>
+</html>
