@@ -1,90 +1,69 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🌐 Multipage Website – Final Project
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+This project is my **final assignment** for the PLP Web Technologies course. It demonstrates the use of **HTML5, CSS3, and JavaScript** to design, build, and deploy a responsive multipage website.
 
 ---
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+## 🚀 Live Demo
 
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+🔗 [View the Website Here](https://mutindadev.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## 📂 Project Structure
 
-Using your plan, begin building:
+The project contains 4 main pages, each linked through a consistent navigation bar and footer:
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+- **Home (`index.html`)** – Landing page with introduction and navigation.  
+- **About (`about.html`)** – Information about the purpose of the site.  
+- **Services (`services.html`)** – Showcasing offerings/features.  
+- **Contact (`contact.html`)** – Includes a contact form with basic JavaScript validation.  
 
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+### Supporting Files:
+- **`style.css`** – Centralized styling with a consistent color scheme and responsiveness.  
+- **`main.js`** – Adds interactivity (e.g., form validation, dynamic behavior).  
+- **`/images/`** – Folder for images used across pages.  
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 🎨 Features
 
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+- Responsive design (works on mobile, tablet, and desktop).  
+- Consistent color scheme, fonts, and layout across all pages.  
+- Semantic **HTML5** structure for accessibility.  
+- Interactive elements with **JavaScript** (form validation).  
+- Clear navigation and reusable footer across pages.  
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+## 🛠️ Deployment
 
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+The site is hosted on **GitHub Pages**:  
+- Branch: `main`  
+- Directory: `/ (root)`  
+- Live URL: [Click Here](https://mutindadev.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)  
 
 ---
 
-## Deliverables
+## ✅ Deliverables
 
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+1. A GitHub repository containing:  
+   - Complete, organized project code  
+   - This `README.md` explaining the project, structure, and live URL  
+2. A live deployed website (hosted via GitHub Pages).  
 
 ---
 
-## Outcome
+## 📊 Outcome
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+- ✅ Clear planning and documentation  
+- ✅ Proper use of HTML5, CSS, and JavaScript across multiple pages  
+- ✅ Responsive and accessible design  
+- ✅ Clean, well-organized, and commented code  
+- ✅ Successfully deployed website with a working live link  
+- ✅ Evidence of following best practices  
+
+---
+
+### ✨ Author
+Developed by **Mutindadev** as part of the PLP Web Technologies course.  
